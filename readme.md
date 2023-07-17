@@ -15,7 +15,7 @@ npm start
 N.B. Replace `my-app` with the name of your project
 
 ## 2. Prepare Steam credentials
-(Get Started with Steamworks)[https://partner.steamgames.com/doc/gettingstarted] has a list of steps to take.
+[Get Started with Steamworks](https://partner.steamgames.com/doc/gettingstarted) has a list of steps to take.
 - [ ] Set Up Steamworks Account
 - [ ] Download the Steamworks SDK
 - [ ] Create your Steam build & depots
@@ -24,7 +24,7 @@ N.B. Replace `my-app` with the name of your project
 - [ ] Preparing for Release
 
 ## 3. Build and Deploy to Steam
-(Trashmoon has a great walkthrough)[https://trashmoon.com/blog/2022/automating-steam-releases-for-html-games-with-electron-forge-and-github-actions/] which I referenced to get the project ready and deployed to steam.
+[Trashmoon has a great walkthrough](https://trashmoon.com/blog/2022/automating-steam-releases-for-html-games-with-electron-forge-and-github-actions/) which I referenced to get the project ready and deployed to steam.
 
 ## 4. Integrate Electron and Steam API
-Greenworks is deprecated, use (Steamworks.js)[https://github.com/ceifa/steamworks.js] instead. This (useful walkthrough of the process)[https://liana.one/integrate-electron-steam-api-steamworks] helped.
+Greenworks is deprecated, use [Steamworks.js](https://github.com/ceifa/steamworks.js) instead. This [useful walkthrough of the process](https://liana.one/integrate-electron-steam-api-steamworks) helped.
