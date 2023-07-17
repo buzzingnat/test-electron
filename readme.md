@@ -1,4 +1,5 @@
-# Example App to convert a HTML Game to an Electron Game to Deploy on Steam
+# Electron Test App
+Example app to convert a HTML game to an electron game to deploy on steam.
 
 ## 1. Electron Forge
 The following were the commands I used to get a basic Electron Forge project working from scratch:
